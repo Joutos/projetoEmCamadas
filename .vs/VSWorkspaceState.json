@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Projeto3Camadas",
+    "\\Projeto3Camadas\\UI"
   ],
+  "SelectedNode": "\\Projeto3Camadas\\UI\\frm_Formatura.cs",
   "PreviewInSolutionExplorer": false
 }
